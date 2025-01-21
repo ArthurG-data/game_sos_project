@@ -1,4 +1,0 @@
-test1,Sos,3,3,Players,bob,0,Human,jon,1,Human,Players,currentPlayer,jon,Moves,bob,0,0,O,jon,0,1,S,bob,0,2,S,
-2,Sos,3,3,Players,bob,0,Human,jon,1,Human,Players,currentPlayer,jon,Moves,bob,0,0,S,
-bobasd,Sos,3,3,Players,bob,0,Human,jon,1,Human,Players,currentPlayer,jon,Moves,
-lastSave,Sos,3,3,Players,bob,0,Human,jon,1,Human,Players,currentPlayer,jon,Moves,jon,0,0,S,bob,0,1,O,jon,0,2,S,jon,1,0,O,bob,2,0,S,bob,1,1,S,
