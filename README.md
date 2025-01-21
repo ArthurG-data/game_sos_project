@@ -56,7 +56,9 @@ The game continues until the board is full, and the player with the most points 
 
 Include the class diagram image here for a detailed architectural overview:
 
-![Class Diagram](path_to_class_diagram.png)
+<p>
+   <img src="assets/img/Description_and_design-9.png">
+</p>
 
 ---
 
@@ -64,7 +66,9 @@ Include the class diagram image here for a detailed architectural overview:
 
 The sequence diagram shows how the game initializes, sets up players, and begins the main loop:
 
-![Sequence Diagram](path_to_sequence_diagram.png)
+<p>
+   <img src="assets/img/Description_and_design-8.png">
+</p>
 
 ---
 
@@ -72,7 +76,10 @@ The sequence diagram shows how the game initializes, sets up players, and begins
 
 The object diagram provides a snapshot of the game's runtime structure:
 
-![Object Diagram](path_to_object_diagram.png)
+<p>
+   <img src="assets/img/Description_and_design-7.png">
+</p>
+
 
 ---
 
