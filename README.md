@@ -1,4 +1,8 @@
-# **Game Application with Advanced Design Patterns** 🎮
+<p>
+   <img src="assets/img/banner_logo.webp">
+</p>
+
+# **SOS Game Application with Advanced Design Patterns** 🎮
 
 ![Language](https://img.shields.io/badge/language-C%23-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
