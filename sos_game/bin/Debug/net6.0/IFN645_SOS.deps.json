@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IFN645_SOS/1.0.0": {
+        "runtime": {
+          "IFN645_SOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IFN645_SOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
