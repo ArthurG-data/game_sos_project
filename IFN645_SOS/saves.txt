@@ -1,1 +1,0 @@
-test1,Sos,4,4,Players,john,0,Human,bob,1,Human,Players,currentPlayer,bob,Moves,bob,0,0,S,john,0,2,S,
