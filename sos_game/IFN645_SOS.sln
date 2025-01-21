@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFN645_SOS", "IFN645_SOS.csproj", "{72E11812-6FEA-4516-B298-22016C414DDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sos_game", "sos_game.csproj", "{72E11812-6FEA-4516-B298-22016C414DDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
